@@ -1,0 +1,28 @@
+{
+  "name": "timings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbrandau/timings.git"
+  },
+  "keywords": [
+    "time",
+    "tracking",
+    "timings"
+  ],
+  "author": "Maximilian Brandau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbrandau/timings/issues"
+  },
+  "homepage": "https://github.com/mbrandau/timings#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.5.1"
+  }
+}
