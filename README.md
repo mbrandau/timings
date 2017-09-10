@@ -1,4 +1,4 @@
-# timings
+# timings [![Build Status](https://travis-ci.org/mbrandau/timings.svg?branch=master)](https://travis-ci.org/mbrandau/timings) [![David](https://img.shields.io/david/mbrandau/timings.svg)](https://david-dm.org/mbrandau/timings) [![GitHub issues](https://img.shields.io/github/issues/mbrandau/timings.svg)](https://github.com/mbrandau/timings/issues)
 
 Monitor the time you spent on certain tasks.
 
