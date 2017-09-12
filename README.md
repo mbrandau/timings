@@ -25,7 +25,7 @@ basicTracker(); // Call the tracker method each time you want to start to track 
 myTimeConsumingTask();
 const duration = basicTracker(); // Get the time difference to last basicTracker() call in milliseconds
 
-console.log(`Loop finished in ${duration}ms`);
+console.log(`Task finished in ${duration}ms`);
 ```
 
 ### Saving the times and get average values
