@@ -1,6 +1,6 @@
 # timings.js
 
-[![Build Status](https://img.shields.io/travis/mbrandau/timings.svg)](https://travis-ci.org/mbrandau/timings) [![David](https://img.shields.io/david/mbrandau/timings.svg)](https://david-dm.org/mbrandau/timings) [![Coveralls](https://img.shields.io/coveralls/mbrandau/timings.svg)](https://coveralls.io/github/mbrandau/timings) [![GitHub issues](https://img.shields.io/github/issues/mbrandau/timings.svg)](https://github.com/mbrandau/timings/issues)
+[![Build Status](https://img.shields.io/travis/mbrandau/timings.svg)](https://travis-ci.org/mbrandau/timings) [![David](https://img.shields.io/david/mbrandau/timings.svg)](https://david-dm.org/mbrandau/timings) [![Coveralls](https://img.shields.io/coveralls/mbrandau/timings.svg)](https://coveralls.io/github/mbrandau/timings) [![npm](https://img.shields.io/npm/v/timings.js.svg)](https://www.npmjs.com/package/timings.js) [![npm](https://img.shields.io/npm/dt/timings.js.svg)](https://www.npmjs.com/package/timings.js) [![GitHub issues](https://img.shields.io/github/issues/mbrandau/timings.svg)](https://github.com/mbrandau/timings/issues)
 
 Monitor the time you spent on certain tasks.
 
