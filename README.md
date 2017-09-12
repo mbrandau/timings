@@ -28,7 +28,7 @@ const duration = basicTracker(); // Get the time difference to last basicTracker
 console.log(`Task finished in ${duration}ms`);
 ```
 
-### Saving the times and get average values
+### Saving the times and getting average values
 ```js
 for (let i = 0; i < 1000; i++) {
   namedTracker();
