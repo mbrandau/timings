@@ -13,7 +13,7 @@ describe('timings', function() {
       expect(timings()()).to.be.a('number');
     });
     it('should be below 1ms', function() {
-      const tracker = require('../index')();
+      const tracker = timings();
       expect(tracker()).to.be.below(1);
     });
     it('should be between 19ms and 21ms', function(done) {
