@@ -1,7 +1,7 @@
 {
   "name": "timings.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Monitor the time you spent on certain tasks using timings.js",
   "main": "index.js",
   "scripts": {
     "test": "nyc --reporter=html --reporter=text mocha",
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/mbrandau/timings#readme",
   "devDependencies": {
-    "coveralls": "^2.13.1",
+    "coveralls": "^2.13.2",
     "expect.js": "^0.3.1",
     "mocha": "^3.5.3",
     "nyc": "^11.2.1"
