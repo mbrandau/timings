@@ -1,7 +1,7 @@
 {
   "name": "timings.js",
   "version": "1.0.0",
-  "description": "Monitor the time you spent on certain tasks using timings.js. See https://github.com/mbrandau/timings/README.md for more information.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "nyc --reporter=html --reporter=text mocha",
