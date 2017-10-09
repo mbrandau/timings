@@ -16,13 +16,12 @@ describe('timings', function() {
       const tracker = timings();
       expect(tracker()).to.be.below(1);
     });
-    it('should be between 19ms and 21ms', function(done) {
-      const tracker = timings();
-      tracker();
+    it('should be around 100ms', function(done) {
+      const tracker = timings();      
       setTimeout(function() {
-        expect(tracker()).to.be.greaterThan(19).and.lessThan(21);
+        expect(tracker()).to.be.within(100, 115);
         done();
-      }, 20);
+      }, 100, tracker());
     });
   });
   describe('getTimings', function() {
